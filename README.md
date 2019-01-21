@@ -1,6 +1,6 @@
 # mute-hangouts
 Mute the chrome hangouts app.
-works with (https://chrome.google.com/webstore/detail/google-hangouts/nckgahadagoaajjgafhacjanaoiihapd)[https://chrome.google.com/webstore/detail/google-hangouts/nckgahadagoaajjgafhacjanaoiihapd]
+works with https://chrome.google.com/webstore/detail/google-hangouts/nckgahadagoaajjgafhacjanaoiihapd
 ## How to install:
 
 1. download .zip
