@@ -1,0 +1,11 @@
+{
+  "name": "Hangouts Muter",
+  "version": "1.0",
+  "description": "Mutes Hangouts ringer",
+  "permissions": ["webRequest", "webRequestBlocking", "http://*/*", "https://*/*"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "manifest_version": 2
+}
